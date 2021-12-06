@@ -5,6 +5,10 @@ Faded Dream is a customized version of Mint-Y-Dark-Blue to have transparency on 
 ![My setup (as of June 10th, 2020)](https://i.imgur.com/f75Tnvu.png)
 
 ## How to install theme
+
+The theme is provided for easy install in the official Cinnamon theme menu, however if you prefer to install it manually, follow the instructions below.
+
+
 Requirements: Cinnamon Desktop Environment and Git. 
 
 1. `git clone https://github.com/anime-is-real/faded-dream-cinnamon-theme.git`
